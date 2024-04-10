@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import Intro from "@/components/Intro.vue";
 import AboutMe from "@/components/AboutMe.vue";
+import Education from "@/components/Education.vue";
 import Qualification from "@/components/Qualification.vue";
 
 import { ref, onMounted } from "vue";
@@ -10,6 +11,9 @@ const loading = ref(true);
 
 onMounted(() => {
   AOS.init({});
+  AOS.init({
+    disable: "mobile", // Ensure it's not disabled on mobile if you want animations there
+  });
   setTimeout(() => {
     loading.value = false;
   }, 5000);
@@ -46,6 +50,7 @@ onMounted(() => {
       <Intro />
       <Portfolio />
       <AboutMe />
+      <Education />
       <Skills />
       <Qualification />
       <ContactMe />

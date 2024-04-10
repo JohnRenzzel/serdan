@@ -3,7 +3,7 @@
     <ul class="journey-description flex flex-col w-96 text-right">
       <li class="pr-10" data-aos="fade-right" data-aos-duration="500">
         <h2 class="text-sm dark:text-white">
-          Capstone Project | Voice Bridge - Dynamic Feedback
+          Capstone Project | Vitucio Catering Management System
         </h2>
         <span class="text-xs f-gray"> Current</span>
       </li>
@@ -16,7 +16,7 @@
       <li></li>
       <li class="pl-10" data-aos="fade-left" data-aos-duration="500">
         <h2 class="text-sm dark:text-white">
-          Tester in AppsDev Project | E-Commerce
+          Front-end in AppsDev Project | Gabs Apartment System
         </h2>
         <span class="text-xs f-gray"> 3rd Year, 1st Semister</span>
       </li>

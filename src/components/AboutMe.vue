@@ -1,5 +1,5 @@
 <template>
-  <div class="max-w-7xl m-center pt-20 pb-20">
+  <div class="max-w-7xl m-center">
     <div
       class="about-me text-center mt-10 md:mt-32"
       data-aos="fade-up"
@@ -51,11 +51,11 @@
           class="cover-letter f-gray text-lg pb-7 dark:text-white text-center lg:text-left md:justify-center lg:justify-start"
         >
           <div class="personal-info mr-5 w-full lg:w-auto">
-            <p><strong>Name:</strong> Sundy T. Diez</p>
-            <p><strong>Age:</strong> 25</p>
-            <p><strong>Address:</strong> Gabi, Cordova, Cebu</p>
-            <p><strong>Gender:</strong> Male</p>
-            <p><strong>Birthdate:</strong> July 26, 1998</p>
+            <p><strong>Name:</strong> Queenipearl Serdan</p>
+            <p><strong>Age:</strong> 22</p>
+            <p><strong>Address:</strong> Purok Ramboo Babag 2,Lapu Lapu City</p>
+            <p><strong>Gender:</strong> Female</p>
+            <p><strong>Birthdate:</strong> February 8, 2002</p>
           </div>
         </div>
       </div>

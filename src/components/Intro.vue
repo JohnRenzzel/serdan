@@ -9,7 +9,7 @@
         data-aos-duration="500"
         class="text-5xl pb-3 font-extrabold f-black name dark:text-white duration-1000"
       >
-        Sundy T. Diez.
+        Queenipearl Serdan.
       </h2>
       <h4
         class="text-lg pb-2 f-gray dark:text-white duration-1000"
@@ -25,10 +25,10 @@
         data-aos-delay="800"
         data-aos-duration="500"
       >
-        I am a firm believer in the power of education and continuous learning.
-        Throughout my academic journey, I have not only embraced the challenges
-        presented to me but also actively sought out opportunities to expand my
-        skill set.
+        In the world of coding, remember that making mistakes is just part of
+        the adventure. Think of each error as a puzzle waiting to be solved, and
+        know that sometimes, you just need to turn it off and on again. And
+        remember, even the best programmers started by saying 'Hello, World!
       </h5>
       <div
         data-aos="fade-right"

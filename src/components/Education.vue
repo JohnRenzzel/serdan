@@ -1,14 +1,19 @@
 <template>
+  <div class="qualification text-center mt-20">
+    <h2 class="text-5xl dark:text-white">School Graduated</h2>
+  </div>
   <div class="progress-journey flex justify-center mt-10 transition-all">
     <ul class="journey-description flex flex-col w-96 text-right">
       <li class="pr-10" data-aos="fade-right" data-aos-duration="500">
-        <h2 class="text-sm dark:text-white">Cordova Public College</h2>
-        <span class="text-xs f-gray"> Current</span>
+        <h2 class="text-sm dark:text-white">
+          Babag National High School (Senior High)
+        </h2>
+        <span class="text-xs f-gray"> SY: 2019 – 2020</span>
       </li>
       <li></li>
       <li class="pr-10" data-aos="fade-right" data-aos-duration="500">
-        <h2 class="text-sm dark:text-white">Alternative Learning System</h2>
-        <span class="text-xs f-gray"> SY: 2018 – 2019</span>
+        <h2 class="text-sm dark:text-white">Babag National High School</h2>
+        <span class="text-xs f-gray"> SY: 2017 – 2018</span>
       </li>
       <li></li>
       <li></li>
@@ -22,8 +27,10 @@
     <ul class="journey-description flex flex-col w-96">
       <li></li>
       <li class="pl-10" data-aos="fade-left" data-aos-duration="500">
-        <h2 class="text-sm dark:text-white">Banawa Elementary School</h2>
-        <span class="text-xs f-gray"> SY: 2011 – 2012</span>
+        <h2 class="text-sm dark:text-white">
+          Elementary Osmeña Elementary School
+        </h2>
+        <span class="text-xs f-gray"> SY: 2014 – 2015</span>
       </li>
     </ul>
   </div>
