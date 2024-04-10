@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import Intro from "@/components/Intro.vue";
 import AboutMe from "@/components/AboutMe.vue";
-import Education from "@/components/Education.vue";
+// import Education from "@/components/Education.vue";
 import Qualification from "@/components/Qualification.vue";
 
 import { ref, onMounted } from "vue";
@@ -50,7 +50,6 @@ onMounted(() => {
       <Intro />
       <Portfolio />
       <AboutMe />
-      <Education />
       <Skills />
       <Qualification />
       <ContactMe />
